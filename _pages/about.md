@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title:
 permalink: /
 subtitle:
 profile:
@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 Relay is an Engineering Consulting company specializing in Industrial IoT systems that improve operational efficiency, safety, and data-driven decision-making.
 
-## Services 
+## Services
 
 Specializing in the design and implementation of Industrial Internet of Things (IoT) systems. We have a strong background in engineering, a deep understanding of IoT technologies, and a proven track record of delivering innovative solutions for industrial applications.
 
